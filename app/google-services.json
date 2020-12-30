@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786534816640",
+    "project_id": "emotion-tracker-sghost",
+    "storage_bucket": "emotion-tracker-sghost.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786534816640:android:78acbb989c72bace4aff65",
+        "android_client_info": {
+          "package_name": "com.sghost.emotiontracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786534816640-u3tbqrn2vpbjo60ap4a9fae3l23vdc42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-cG70ueOhSCZPFej-qa7jhHNvkMgl3rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786534816640-u3tbqrn2vpbjo60ap4a9fae3l23vdc42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
